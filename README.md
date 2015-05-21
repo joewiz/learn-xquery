@@ -1,6 +1,6 @@
 # Learn XQuery: A list of great articles, blog posts, and books for learning XQuery
 
-Let's show the world how to learn XQuery. Pull requests welcome. Quality over comprehensiveness - just the best, most helpful resources, please.
+Let's show the world how to learn XQuery. Pull requests welcome. Quality over comprehensiveness - just the best, most helpful resources, please. Talk about [`#learnxquery`](https://twitter.com/search?q=learnxquery) on Twitter.
 
 Also, check out these [resources powered by XQuery](https://github.com/joewiz/xquerypower), [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults), and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
 
