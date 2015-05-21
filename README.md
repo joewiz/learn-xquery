@@ -2,6 +2,8 @@
 
 Let's show the world how to learn XQuery. Pull requests welcome. Quality over comprehensiveness - just the best, most helpful resources, please. Talk about [`#learnxquery`](https://twitter.com/search?q=learnxquery) on Twitter.
 
+[XQuery Update facility for the impatient, A quick introduction to the XQuery Update Facility](http://www.xmlmind.com/tutorials/XQueryUpdate/index.html), Xavier Franc. Presents the XQuery Update facilities introduced by the W3C recommendation.
+
 Also, check out these [resources powered by XQuery](https://github.com/joewiz/xquerypower), [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults), and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
 
 ## Gentle introductions
@@ -16,7 +18,7 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 Some people can learn languages by reading online tutorials. Some people like to dive into a book, or have one on their shelf for reference.
 
-- [XQuery: Search across a variety of XML Data](http://shop.oreilly.com/product/9780596006341.do), Priscilla Walmsley, O'Reilly 2007. The standard text for XQuery 1.0. Also introduces [functx](http://www.xqueryfunctions.com/). Out of scope, though, is the topic of building applications with XQuery.
+- [XQuery: Search across a variety of XML Data](http://shop.oreilly.com/product/9780596006341.do), Priscilla Walmsley, O'Reilly 2007. The standard text for XQuery 1.0. Also introduces [functx](http://www.xqueryfunctions.com/). Out of scope, though, is the topic of building applications with XQuery. A [2nd edition](git@github.com:emchateau/learnxquery.git) annonced for september 2015 is on the making.
 - [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley limits herself to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
 
 ## The specs
@@ -46,7 +48,7 @@ In depth articles on conformance to / divergence from the spec:
 
 - XQuery-Talk: a mailing list best for general XQuery questions and discussion. [Subscribe](http://x-query.com/mailman/listinfo/talk). [Archives](http://x-query.markmail.org/).
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/xquery) has many active users who answer XQuery questions.
-- Implementation mailing lists: 
+- Implementation mailing lists:
     - BaseX-talk: [Subscribe](https://mailman.uni-konstanz.de/mailman/listinfo/basex-talk). [Archives](https://mailman.uni-konstanz.de/pipermail/basex-talk/).
     - eXist-open: [Subscribe](https://lists.sourceforge.net/lists/listinfo/exist-open). [Archives](http://exist-open.markmail.org/).
     - MarkLogic-developer: [Subscribe](https://developer.marklogic.com/mailman/listinfo/general). [Archives](http://marklogic.markmail.org/).
