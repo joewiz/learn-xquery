@@ -30,9 +30,9 @@ Some people can learn languages by reading online tutorials. Some people like to
 ## More tutorials and thought pieces
 
 - [XQuery Wikibook](http://en.wikibooks.org/wiki/XQuery): An introduction to XQuery and a cookbook for various applications. Fairly eXist-centric and many pages out of date, but very useful still.
+- [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
 - [XQuery and Lazy Enrichment](http://xquery.typepad.com/xquery/2007/08/xquery-and-lazy.html), Matt Turner, 2007. Demonstrates a simple but powerful technique for enriching text with links to Wikipedia. Easily applied to any XQuery implementation.
 - [MarkLogic Server and Office 2007](https://developer.marklogic.com/blog/smallchanges/2009-01-22), Pete Aven, 2007-09. The last in a series (see the links to the other articles at the bottom) on how to open, manipulate, and create Microsoft Office documents using XQuery. Easily applied to any XQuery implementation.
-- [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
 - [XQuery Novelties Revisited](http://grtjn.blogspot.nl/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
 - [XQuery: It's not just for queries!](http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
 
