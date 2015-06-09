@@ -6,9 +6,6 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 ## Gentle introductions
 
-- [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
-- [XQuery Novelties Revisited](http://grtjn.blogspot.nl/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
-- [XQuery: It's not just for queries!](http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
 - [W3Schools XQuery](http://www.w3schools.com/xquery/). Limited to XQuery 1.0, but a quick overview.
 - [XQuery Wikibook Beginning Examples](http://en.wikibooks.org/wiki/XQuery#Beginning_Examples). Perhaps the best developed portion of the XQuery Wikibook site (see remarks below).
 
@@ -16,7 +13,7 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 Some people can learn languages by reading online tutorials. Some people like to dive into a book, or have one on their shelf for reference.
 
-- [XQuery: Search across a variety of XML Data](http://shop.oreilly.com/product/9780596006341.do), Priscilla Walmsley, O'Reilly 2007. The standard text for XQuery 1.0. Also introduces [functx](http://www.xqueryfunctions.com/). Out of scope, though, is the topic of building applications with XQuery.
+- [XQuery: Search across a variety of XML Data](http://shop.oreilly.com/product/9780596006341.do), Priscilla Walmsley, O'Reilly 2007. The standard text for XQuery 1.0. Also introduces [functx](http://www.xqueryfunctions.com/). Doesn't cover the topic of building applications with XQuery; this is out of scope.
 - [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley limits herself to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
 
 ## The specs
@@ -30,9 +27,14 @@ Some people can learn languages by reading online tutorials. Some people like to
 - [New in XQuery 3.1: Maps and arrays](http://goxrxyourself.com/2015/04/13/new-in-xquery-3-1-maps-and-arrays/), Jesse Alama, 2015. A core new set of features in XQuery 3.1.
 - [A preview of XQuery 3.1's JSON support in eXist](http://joewiz.org/2015/01/18/a-preview-of-xquery-3.1s-json-support-in-exist/), Joe Wicentowski, 2015. Shows how XQuery 3.1 improves JSON handling.
 
-## Tutorials
+## More tutorials and thought pieces
 
 - [XQuery Wikibook](http://en.wikibooks.org/wiki/XQuery): An introduction to XQuery and a cookbook for various applications. Fairly eXist-centric and many pages out of date, but very useful still.
+- [XQuery and Lazy Enrichment](http://xquery.typepad.com/xquery/2007/08/xquery-and-lazy.html), Matt Turner, 2007. Demonstrates a simple but powerful technique for enriching text with links to Wikipedia. Easily applied to any XQuery implementation.
+- [MarkLogic Server and Office 2007](https://developer.marklogic.com/blog/smallchanges/2009-01-22), Pete Aven, 2007-09. The last in a series (see the links to the other articles at the bottom) on how to open, manipulate, and create Microsoft Office documents using XQuery. Easily applied to any XQuery implementation.
+- [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
+- [XQuery Novelties Revisited](http://grtjn.blogspot.nl/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
+- [XQuery: It's not just for queries!](http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
 
 ## Documentation from XQuery implementations about their use of XQuery
 
