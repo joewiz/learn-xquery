@@ -9,18 +9,25 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 - [W3Schools XQuery](http://www.w3schools.com/xquery/). Limited to XQuery 1.0, but a quick overview.
 - [XQuery Wikibook Beginning Examples](http://en.wikibooks.org/wiki/XQuery#Beginning_Examples). Perhaps the best developed portion of the XQuery Wikibook site (see remarks below).
 
-## In depth introductions
+## Materials from XQuery courses
+
+- [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists). Exercises for XQuery workshops given at conferences geared toward academics and other practitioners in the humanities.
+- [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
+- [XQuery Summer Institute](http://xqueryinstitute.org/), hosted at Vanderbilt University in 2015.
+- [On Teaching XQuery to Digital Humanists](https://www.balisage.net/Proceedings/vol13/print/Anderson01/BalisageVol13-Anderson01.html), Clifford Anderson, presented at Balisage: The Markup Conference 2014, Washington, DC, August 5-8, 2014. In _Proceedings of Balisage: The Markup Conference 2014_. Balisage Series on Markup Technologies, vol. 13 (2014). DOI: [10.4242/BalisageVol13.Anderson01](http://dx.doi.org/10.4242/BalisageVol13.Anderson01).
+
+## In-depth introductions
 
 Some people can learn languages by reading online tutorials. Some people like to dive into a book, or have one on their shelf for reference.
 
-- [XQuery: Search across a variety of XML Data](http://shop.oreilly.com/product/9780596006341.do), Priscilla Walmsley, O'Reilly 2007. The standard text for XQuery 1.0. Also introduces [functx](http://www.xqueryfunctions.com/). Doesn't cover the topic of building applications with XQuery; this is out of scope.
-- [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley limits herself to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
+- [XQuery, 2nd Edition: Search Across a Variety of XML Data](http://shop.oreilly.com/product/0636920035589.do), Priscilla Walmsley, O'Reilly 2015. The standard text for XQuery, updated for XQuery 3.1. Also introduces [functx](http://www.xqueryfunctions.com/). Doesn't cover the topic of building applications with XQuery; this is out of scope.
+- [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley is limited to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
 
 ## The specs
 
 - 1.0 (W3C Recommendation): [XQuery 1.0](http://www.w3.org/TR/xquery/), [Data Model](http://www.w3.org/TR/xpath-datamodel/), [Functions and Operators](http://www.w3.org/TR/xquery-operators/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization/), [Update Facility](http://www.w3.org/TR/2011/REC-xquery-update-10-20110317/).
 - 3.0 (W3C Recommendation): [XQuery 3.0](http://www.w3.org/TR/xquery-30/), [Data Model](http://www.w3.org/TR/xpath-datamodel-30/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-30/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-3/), [Update Facility](http://www.w3.org/TR/xquery-update-30/)
-- 3.1 (W3C Candidate Recommendation): [XQuery 3.1](http://www.w3.org/TR/xquery-3/), [Data Model](http://www.w3.org/TR/xpath-datamodel-31/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-31/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-31/), Update Facility (no 3.1 version yet; see the 3.0 version).
+- 3.1 (W3C Recommendation): [XQuery 3.1](http://www.w3.org/TR/xquery-3/), [Data Model](http://www.w3.org/TR/xpath-datamodel-31/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-31/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-31/), Update Facility (no 3.1 version yet; see the 3.0 version).
 
 ## Latest developments in XQuery
 
