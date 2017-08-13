@@ -46,6 +46,7 @@ Some people can learn languages by reading online tutorials. Some people like to
 ## More tutorials
 
 - [XQuery Wikibook](http://en.wikibooks.org/wiki/XQuery): An introduction to XQuery and a cookbook for various applications. Fairly eXist-centric and many pages out of date with developments both in eXist and XQuery, but very useful still.
+- [XQuery Update facility for the impatient, A quick introduction to the XQuery Update Facility](http://www.xmlmind.com/tutorials/XQueryUpdate/index.html), Xavier Franc. Presents the XQuery Update facilities introduced by the W3C recommendation.
 - [XQuery and Lazy Enrichment](http://xquery.typepad.com/xquery/2007/08/xquery-and-lazy.html), Matt Turner, 2007. Demonstrates a simple but powerful technique for enriching text with links to Wikipedia. Easily applied to any XQuery implementation.
 - [MarkLogic Server and Office 2007](https://developer.marklogic.com/blog/smallchanges/2009-01-22), Pete Aven, 2007-09. The last in a series (see the links to the other articles at the bottom) on how to open, manipulate, and create Microsoft Office documents using XQuery. Easily applied to any XQuery implementation.
 
