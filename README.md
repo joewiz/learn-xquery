@@ -12,7 +12,7 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 ## Materials from XQuery courses
 
 - [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists), by Clifford Anderson, et al. Exercises for XQuery workshops given at conferences geared toward academics and other practitioners in the humanities.
-- [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
+- [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
 - [Digital Humanities Courses](http://newtfire.org/dh/), by Elisa E. Beshero-Bondar. Covers many topics, including XPath and XQuery.
 - [XQuery Summer Institute](http://xqueryinstitute.org/), hosted at Vanderbilt University in 2015.
 - [Web Development Using XML](http://cscie18.dce.harvard.edu/lecture_notes/2015/), David P. Heitmeyer, CSCI E-18, Fall 2015, Harvard Extension School. (See lecture notes from this course [since 2003](http://cscie18.dce.harvard.edu/lecture_notes).)
