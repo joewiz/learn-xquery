@@ -28,7 +28,7 @@ Some people can learn languages by reading online tutorials. Some people like to
 
 ## The specs
 
-- 3.1 (W3C Recommendation, 2017): [XQuery 3.1](http://www.w3.org/TR/xquery-3/), [Data Model](http://www.w3.org/TR/xpath-datamodel-31/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-31/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-31/), Update Facility (no 3.1 version yet; see the 3.0 version).
+- 3.1 (W3C Recommendation, 2017): [XQuery 3.1](http://www.w3.org/TR/xquery-31/), [Data Model](http://www.w3.org/TR/xpath-datamodel-31/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-31/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-31/), Update Facility (no 3.1 version yet; see the 3.0 version).
 - 3.0 (W3C Recommendation, 2014): [XQuery 3.0](http://www.w3.org/TR/xquery-30/), [Data Model](http://www.w3.org/TR/xpath-datamodel-30/), [Functions and Operators](http://www.w3.org/TR/xpath-functions-30/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization-3/), [Update Facility](http://www.w3.org/TR/xquery-update-30/)
 - 1.0 (W3C Recommendation, 2007): [XQuery 1.0](http://www.w3.org/TR/xquery/), [Data Model](http://www.w3.org/TR/xpath-datamodel/), [Functions and Operators](http://www.w3.org/TR/xquery-operators/), [Serialization](http://www.w3.org/TR/xslt-xquery-serialization/), [Update Facility](http://www.w3.org/TR/2011/REC-xquery-update-10-20110317/).
 
