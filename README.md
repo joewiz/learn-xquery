@@ -17,6 +17,7 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 - [XQuery Summer Institute](http://xqueryinstitute.org/), hosted at Vanderbilt University in 2015.
 - [Web Development Using XML](http://cscie18.dce.harvard.edu/lecture_notes/2015/), David P. Heitmeyer, CSCI E-18, Fall 2015, Harvard Extension School. (See lecture notes from this course [since 2003](http://cscie18.dce.harvard.edu/lecture_notes).)
 - [XML with Java, Java Servlet, and JSP](http://cs259.tv/2007/fall/) ([YouTube](https://www.youtube.com/user/cscie259)), David Malan, CSCI E-259, Fall 2007, Harvard Extension School.
+- [XPath and XQuery](https://lagunita.stanford.edu/courses/DB/XPath/SelfPaced/about) ([YouTube](https://www.youtube.com/watch?v=LeD6vMK-znY&list=PL3D8fVsfHcA8l2CTTwCMH9D_JFlYosLFa)), by Jennifer Widom, Stanford University, 2014. Covers the XPath language for processing XML data, along with many features of the more advanced XQuery language. Part of a set of smaller self-paced "mini-courses", which can be assembled in a variety of ways to learn about different aspects of databases.
 
 ## In-depth introductions
 
