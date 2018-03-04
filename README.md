@@ -14,8 +14,10 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 - [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists), by Clifford Anderson, et al. Exercises for XQuery workshops given at conferences geared toward academics and other practitioners in the humanities.
 - [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
 - [Digital Humanities Courses](http://newtfire.org/dh/), by Elisa E. Beshero-Bondar. Covers many topics, including XPath and XQuery.
+- [XQuery and XML Applications](http://www.adamretter.org.uk/presentations.xml), by Adam Retter. Slides from the XQuery track of the 2016 [XML Summer School](http://xmlsummerschool.com/), Oxford.
 - [XQuery Summer Institute](http://xqueryinstitute.org/), hosted at Vanderbilt University in 2015.
 - [Web Development Using XML](http://cscie18.dce.harvard.edu/lecture_notes/2015/), David P. Heitmeyer, CSCI E-18, Fall 2015, Harvard Extension School. (See lecture notes from this course [since 2003](http://cscie18.dce.harvard.edu/lecture_notes).)
+- [Querying XML: XPath and XQuery](https://www.slideshare.net/kverbert/xml-parta), by Katrien Verbert and George Fletcher, slides from Database Technology (2ID35), Technische Universiteit Eindhoven, Spring 2013. 
 - [XML with Java, Java Servlet, and JSP](http://cs259.tv/2007/fall/) ([YouTube](https://www.youtube.com/user/cscie259)), David Malan, CSCI E-259, Fall 2007, Harvard Extension School.
 - [XPath and XQuery](https://lagunita.stanford.edu/courses/DB/XPath/SelfPaced/about) ([YouTube](https://www.youtube.com/watch?v=LeD6vMK-znY&list=PL3D8fVsfHcA8l2CTTwCMH9D_JFlYosLFa)), by Jennifer Widom, Stanford University, 2014. Covers the XPath language for processing XML data, along with many features of the more advanced XQuery language. Part of a set of smaller self-paced "mini-courses", which can be assembled in a variety of ways to learn about different aspects of databases.
 
@@ -25,6 +27,7 @@ Some people can learn languages by reading online tutorials. Some people like to
 
 - [XQuery, 2nd Edition: Search Across a Variety of XML Data](http://shop.oreilly.com/product/0636920035589.do), Priscilla Walmsley, O'Reilly 2015. The standard text for XQuery, updated for XQuery 3.1. Also introduces [functx](http://www.xqueryfunctions.com/). Doesn't cover the topic of building applications with XQuery; this is out of scope.
 - [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley is limited to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
+- [XQuery from the Experts](https://www.amazon.com/XQuery-Experts-Guide-Query-Language/dp/0321180607), A bit dated (2003), and probably only available second-hand, but there's a lot of material on the concepts and purpose and role of the language rather than just a tutorial or a reference manual.
 
 ## The specs
 
@@ -68,3 +71,7 @@ In depth articles on conformance to / divergence from the spec, and links to key
     - BaseX-talk: [Subscribe](https://mailman.uni-konstanz.de/mailman/listinfo/basex-talk). [Archives](https://mailman.uni-konstanz.de/pipermail/basex-talk/).
     - eXist-open: [Subscribe](https://lists.sourceforge.net/lists/listinfo/exist-open). [Archives](http://exist-open.markmail.org/).
     - MarkLogic-developer: [Subscribe](https://developer.marklogic.com/mailman/listinfo/general). [Archives](http://marklogic.markmail.org/).
+
+## Other lists of XQuery learning materials
+
+- [XQuery](http://www.rpbourret.com/xml/XMLDBLinks.htm#XQuery), from "XML / Database Links", by Ronald Bourret. Last updated 2011 but good.
