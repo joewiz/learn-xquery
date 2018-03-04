@@ -74,4 +74,4 @@ In depth articles on conformance to / divergence from the spec, and links to key
 
 ## Other lists of XQuery learning materials
 
-- [XQuery](http://www.rpbourret.com/xml/XMLDBLinks.htm#XQuery), from "XML / Database Links", by Ronald Bourret. Last updated 2011 but good.
+- [XQuery](http://www.rpbourret.com/xml/XMLDBLinks.htm#XQuery), from "XML / Database Links", by Ronald Bourret. Last updated 2011 but still useful.
