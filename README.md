@@ -6,14 +6,14 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 ## Gentle introductions
 
-- [W3Schools XQuery](http://www.w3schools.com/xquery/). Limited to XQuery 1.0, but a quick overview.
+- [W3Schools XQuery](https://www.w3schools.com/xml/xquery_intro.asp). Limited to XQuery 1.0, but a quick overview.
 - [XQuery Wikibook Beginning Examples](http://en.wikibooks.org/wiki/XQuery#Beginning_Examples). Perhaps the best developed portion of the XQuery Wikibook site (see remarks below).
 
 ## Materials from XQuery courses
 
 - [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists), by Clifford Anderson, et al. Exercises for XQuery workshops geared toward humanities scholars; most recently updated for Digital Humanities 2017.
 - [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
-- [Digital Humanities Courses](http://newtfire.org/dh/), by Elisa E. Beshero-Bondar. Covers many topics, including XPath and XQuery.
+- [Digital Humanities Courses](https://newtfire.org/courses/dh/), by Elisa E. Beshero-Bondar. Covers many topics, including XPath and XQuery.
 - [XQuery and XML Applications](http://www.adamretter.org.uk/presentations/xquery-and-xml-applications_xml-summer-school_oxford_20160915.pdf), by Adam Retter (see his [other presentations](http://www.adamretter.org.uk/presentations.xml)). Slides from the XQuery track of the 2016 [XML Summer School](http://xmlsummerschool.com/), Oxford.
 - [XQuery Summer Institute](http://xqueryinstitute.org/), hosted at Vanderbilt University in 2015.
 - [XPath and XQuery](https://lagunita.stanford.edu/courses/DB/XPath/SelfPaced/about) ([YouTube](https://www.youtube.com/watch?v=LeD6vMK-znY&list=PL3D8fVsfHcA8l2CTTwCMH9D_JFlYosLFa)), by Jennifer Widom, Stanford University, 2014. Covers the XPath language for processing XML data, along with many features of the more advanced XQuery language. Part of a set of smaller self-paced "mini-courses", which can be assembled in a variety of ways to learn about different aspects of databases.
@@ -37,7 +37,7 @@ Some people can learn languages by reading online tutorials. Some people like to
 
 ## Latest developments in XQuery
 
-- [New in XQuery 3.1: Maps and arrays](http://goxrxyourself.com/2015/04/13/new-in-xquery-3-1-maps-and-arrays/), Jesse Alama, 2015. A core new set of features in XQuery 3.1.
+- [New in XQuery 3.1: Maps and arrays](https://web.archive.org/web/20150525174523/http://goxrxyourself.com/2015/04/13/new-in-xquery-3-1-maps-and-arrays/), Jesse Alama, 2015. A core new set of features in XQuery 3.1.
 - [A preview of XQuery 3.1's JSON support in eXist](http://joewiz.org/2015/01/18/a-preview-of-xquery-3.1s-json-support-in-exist/), Joe Wicentowski, 2015. Shows how XQuery 3.1 improves JSON handling.
 
 ## Thought pieces situating XQuery in the world
@@ -46,14 +46,14 @@ Some people can learn languages by reading online tutorials. Some people like to
 - [On Teaching XQuery to Digital Humanists](https://www.balisage.net/Proceedings/vol13/print/Anderson01/BalisageVol13-Anderson01.html), Clifford Anderson, presented at Balisage: The Markup Conference 2014, Washington, DC, August 5-8, 2014. In _Proceedings of Balisage: The Markup Conference 2014_. Balisage Series on Markup Technologies, vol. 13 (2014). DOI: [`10.4242/BalisageVol13.Anderson01`](http://dx.doi.org/10.4242/BalisageVol13.Anderson01).
 - [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
 - [XQuery Novelties Revisited](http://grtjn.blogspot.nl/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
-- [XQuery: It's not just for queries!](http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
+- [XQuery: It's not just for queries!](https://web.archive.org/web/20150531205445/http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
 
 ## More tutorials
 
 - [XQuery Wikibook](http://en.wikibooks.org/wiki/XQuery): An introduction to XQuery and a cookbook for various applications. Fairly eXist-centric and many pages out of date with developments both in eXist and XQuery, but very useful still.
 - [XQuery Update facility for the impatient, A quick introduction to the XQuery Update Facility](http://www.xmlmind.com/tutorials/XQueryUpdate/index.html), Xavier Franc. Presents the XQuery Update facilities introduced by the W3C recommendation.
 - [XQuery and Lazy Enrichment](http://xquery.typepad.com/xquery/2007/08/xquery-and-lazy.html), Matt Turner, 2007. Demonstrates a simple but powerful technique for enriching text with links to Wikipedia. Easily applied to any XQuery implementation.
-- [MarkLogic Server and Office 2007](https://developer.marklogic.com/blog/smallchanges/2009-01-22), Pete Aven, 2007-09. The last in a series (see the links to the other articles at the bottom) on how to open, manipulate, and create Microsoft Office documents using XQuery. Easily applied to any XQuery implementation.
+- [MarkLogic Server and Office 2007](https://web.archive.org/web/20180625204901/http://developer.marklogic.com/blog/smallchanges/2009-01-22), Pete Aven, 2007-09. The last in a series (see the links to the other articles at the bottom) on how to open, manipulate, and create Microsoft Office documents using XQuery. Easily applied to any XQuery implementation.
 
 ## Documentation from XQuery implementations about their use of XQuery
 
