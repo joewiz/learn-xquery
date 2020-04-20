@@ -1,8 +1,8 @@
 # Learn XQuery: A list of great articles, blog posts, and books for learning XQuery
 
-Let's show the world how to learn XQuery. Pull requests welcome. Quality over comprehensiveness - just the best, most helpful resources, please. Talk about [`#xquery`](https://twitter.com/search?q=xquery) on Twitter.
+Let's show the world how to learn XQuery. Pull requests welcome. Quality over comprehensiveness - just the best, most helpful resources, please. Talk about [`#xquery`](https://twitter.com/search?q=xquery) on Twitter. 
 
-Also, check out these [resources powered by XQuery](https://github.com/joewiz/xquerypower), [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults), and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
+Also, check out these [resources powered by XQuery](https://github.com/joewiz/xquerypower), [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults), and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery). 
 
 ## Gentle introductions
 
@@ -11,7 +11,7 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 ## Materials from XQuery courses
 
-- [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists), by Clifford Anderson, et al. Exercises for XQuery workshops geared toward humanities scholars; most recently updated for Digital Humanities 2017.
+- [XQuery for Humanists](https://github.com/CliffordAnderson/XQuery4Humanists), by Clifford Anderson, et al. Exercises for XQuery workshops geared toward humanities scholars; most recently updated for Digital Humanities 2017. (See their 2020 book, linked below.)
 - [Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), a.k.a. Pittsburgh NEH Institute, hosted at the University of Pittsburgh in 2017. Covers many topics, including XPath and XQuery.
 - [Digital Humanities Courses](https://newtfire.org/courses/dh/), by Elisa E. Beshero-Bondar. Covers many topics, including XPath and XQuery.
 - [XQuery and XML Applications](http://www.adamretter.org.uk/presentations/xquery-and-xml-applications_xml-summer-school_oxford_20160915.pdf), by Adam Retter (see his [other presentations](http://www.adamretter.org.uk/presentations.xml)). Slides from the XQuery track of the 2016 [XML Summer School](http://xmlsummerschool.com/), Oxford.
@@ -23,10 +23,11 @@ Also, check out these [resources powered by XQuery](https://github.com/joewiz/xq
 
 ## In-depth introductions
 
-Some people can learn languages by reading online tutorials. Some people like to dive into a book, or have one on their shelf for reference.
+Some people can learn languages by reading online tutorials. Some people like to dive into a book, or have one on their shelf for reference. Listed in chronological order by date of printing, newest to oldest.
 
-- [XQuery, 2nd Edition: Search Across a Variety of XML Data](http://shop.oreilly.com/product/0636920035589.do), Priscilla Walmsley, O'Reilly 2015. The standard text for XQuery, updated for XQuery 3.1. Also introduces [functx](http://www.xqueryfunctions.com/). Doesn't cover the topic of building applications with XQuery; this is out of scope.
-- [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, 2014. If Walmsley is limited to the language, Siegel and Retter coherently introduce approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
+- [XQuery for Humanists](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/), Clifford B. Anderson and Joseph C. Wicentowski, Texas A&M University Press, 2020. An introduction to XQuery accessible to non-programmers. Has a running focus on use cases related to research in the humanities. See also the book's [companion website](https://xquery.forhumanists.org). 
+- [XQuery, 2nd Edition: Search Across a Variety of XML Data](http://shop.oreilly.com/product/0636920035589.do), Priscilla Walmsley, O'Reilly, 2015. The standard text for XQuery, available in a second edition, updated for XQuery 3.1. Also introduces [functx](http://www.xqueryfunctions.com/). 
+- [eXist: A NoSQL Document Database and Application Platform](http://shop.oreilly.com/product/0636920026525.do), Erik Siegel and Adam Retter, O'Reilly, 2014. Introduces approaches to building applications with one popular XQuery-based platform, eXist. Example code for the book is [on GitHub](https://github.com/eXist-book/book-code).
 - [XQuery from the Experts](https://www.amazon.com/XQuery-Experts-Guide-Query-Language/dp/0321180607), A bit dated (2003), and only available second-hand, but its coverage of the concepts and purpose and role of the language makes it more than just a tutorial or reference manual.
 
 ## The specs
@@ -42,7 +43,7 @@ Some people can learn languages by reading online tutorials. Some people like to
 
 ## Thought pieces situating XQuery in the world
 
-- [XQuery as a data integration language](https://www.balisage.net/Proceedings/vol15/html/Rennau01/BalisageVol15-Rennau01.html), Hans-Jürgen Rennau and Christian Grün. Presented at Balisage: The Markup Conference 2015, Washington, DC, August 11 - 14, 2015. In _Proceedings of Balisage: The Markup Conference 2015_. Balisage Series on Markup Technologies, vol. 15 (2015). DOI: [`10.4242/BalisageVol15.Rennau01`](http://dx.doi.org/10.4242/BalisageVol15.Rennau01).
+- [XQuery as a data integration language](https://www.balisage.net/Proceedings/vol15/html/Rennau01/BalisageVol15-Rennau01.html), Hans-Jürgen Rennau and Christian Grün. Presented at Balisage: The Markup Conference 2015, Washington, DC, August 11-14, 2015. In _Proceedings of Balisage: The Markup Conference 2015_. Balisage Series on Markup Technologies, vol. 15 (2015). DOI: [`10.4242/BalisageVol15.Rennau01`](http://dx.doi.org/10.4242/BalisageVol15.Rennau01).
 - [On Teaching XQuery to Digital Humanists](https://www.balisage.net/Proceedings/vol13/print/Anderson01/BalisageVol13-Anderson01.html), Clifford Anderson, presented at Balisage: The Markup Conference 2014, Washington, DC, August 5-8, 2014. In _Proceedings of Balisage: The Markup Conference 2014_. Balisage Series on Markup Technologies, vol. 13 (2014). DOI: [`10.4242/BalisageVol13.Anderson01`](http://dx.doi.org/10.4242/BalisageVol13.Anderson01).
 - [XQuery, the Server Language](http://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
 - [XQuery Novelties Revisited](http://grtjn.blogspot.nl/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
@@ -71,6 +72,10 @@ In depth articles on conformance to / divergence from the spec, and links to key
     - BaseX-talk: [Subscribe](https://mailman.uni-konstanz.de/mailman/listinfo/basex-talk). [Archives](https://mailman.uni-konstanz.de/pipermail/basex-talk/).
     - eXist-open: [Subscribe](https://lists.sourceforge.net/lists/listinfo/exist-open). [Archives](http://exist-open.markmail.org/).
     - MarkLogic-developer: [Subscribe](https://developer.marklogic.com/mailman/listinfo/general). [Archives](http://marklogic.markmail.org/).
+- Slack:
+    - [XML.com Slack](https://www.xml.com/news/2020-04-slack-workspace-for-the-xml-community/)
+    - [Digital Humanities Slack #xquery channel](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design)
+    - [eXist-db Slack] (https://join.slack.com/t/exist-db/shared_invite/zt-89ukckoj-zbbC_V2QDIR5nGMokG9TQA)
 
 ## Other lists of XQuery learning materials
 
