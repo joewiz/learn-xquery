@@ -75,7 +75,7 @@ In depth articles on conformance to / divergence from the spec, and links to key
 - Slack:
     - [XML.com Slack](https://www.xml.com/news/2020-04-slack-workspace-for-the-xml-community/)
     - [Digital Humanities Slack #xquery channel](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design)
-    - [eXist-db Slack] (https://join.slack.com/t/exist-db/shared_invite/zt-89ukckoj-zbbC_V2QDIR5nGMokG9TQA)
+    - [eXist-db Slack](https://join.slack.com/t/exist-db/shared_invite/zt-89ukckoj-zbbC_V2QDIR5nGMokG9TQA)
 
 ## Other lists of XQuery learning materials
 
