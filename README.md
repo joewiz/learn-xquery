@@ -39,16 +39,17 @@ Some people can learn languages by reading online tutorials. Some people like to
 ## Latest developments in XQuery
 
 - [Using XPath 3.1 (and its friends) to work with JSON](https://github.com/amclark42/code4lib_xpath-to-work-with-json), Ash Clark, 2021. A lightning talk presented at Code4Lib 2021. 
+- [Converting Roman numerals with XQuery & XSLT I–IV](https://joewiz.org/2021/05/30/converting-roman-numerals-with-xquery-xslt/), Joe Wicentowski, 2021. Explores the use of XQuery 3's `fold-left()` and `fold-right()` functions.
 - [New in XQuery 3.1: Maps and arrays](https://web.archive.org/web/20150525174523/http://goxrxyourself.com/2015/04/13/new-in-xquery-3-1-maps-and-arrays/), Jesse Alama, 2015. A core new set of features in XQuery 3.1.
-- [A preview of XQuery 3.1's JSON support in eXist](http://joewiz.org/2015/01/18/a-preview-of-xquery-3.1s-json-support-in-exist/), Joe Wicentowski, 2015. Shows how XQuery 3.1 improves JSON handling.
 
 ## Thought pieces situating XQuery in the world
 
-- [XQuery as a data integration language](https://www.balisage.net/Proceedings/vol15/html/Rennau01/BalisageVol15-Rennau01.html), Hans-Jürgen Rennau and Christian Grün. Presented at Balisage: The Markup Conference 2015, Washington, DC, August 11-14, 2015. In _Proceedings of Balisage: The Markup Conference 2015_. Balisage Series on Markup Technologies, vol. 15 (2015). DOI: [`10.4242/BalisageVol15.Rennau01`](https://doi.org/10.4242/BalisageVol15.Rennau01).
-- [On Teaching XQuery to Digital Humanists](https://www.balisage.net/Proceedings/vol13/print/Anderson01/BalisageVol13-Anderson01.html), Clifford Anderson, presented at Balisage: The Markup Conference 2014, Washington, DC, August 5-8, 2014. In _Proceedings of Balisage: The Markup Conference 2014_. Balisage Series on Markup Technologies, vol. 13 (2014). DOI: [`10.4242/BalisageVol13.Anderson01`](https://doi.org/10.4242/BalisageVol13.Anderson01).
-- [XQuery, the Server Language](https://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
-- [XQuery Novelties Revisited](https://grtjn.blogspot.com/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
+- [The integration of XML databases and content management systems in digital editions: Understanding eXist-db through Reese’s Peanut Butter Cups](https://www.balisage.net/Proceedings/vol23/html/Birnbaum01/BalisageVol23-Birnbaum01.html), Birnbaum, David J., Hugh Cayless, Emmanuelle Morlock, Leif-Jöran Olsson and Joseph Wicentowski. Presented at Balisage: The Markup Conference 2019, Washington, DC, July 30 - August 2, 2019. In Proceedings of Balisage: The Markup Conference 2019. Balisage Series on Markup Technologies, vol. 23 (2019). https://doi.org/10.4242/BalisageVol23.Birnbaum01.
+- [XQuery as a data integration language](https://www.balisage.net/Proceedings/vol15/html/Rennau01/BalisageVol15-Rennau01.html), Hans-Jürgen Rennau and Christian Grün. Presented at Balisage: The Markup Conference 2015, Washington, DC, August 11-14, 2015. In _Proceedings of Balisage: The Markup Conference 2015_. Balisage Series on Markup Technologies, vol. 15 (2015). https://doi.org/10.4242/BalisageVol15.Rennau01.
 - [XQuery: It's not just for queries!](https://web.archive.org/web/20150531205445/http://goxrxyourself.com/2015/04/29/xquery-its-not-just-for-queries/), Jesse Alama, 2015. Emphasizes wide utility of XQuery.
+- [On Teaching XQuery to Digital Humanists](https://www.balisage.net/Proceedings/vol13/print/Anderson01/BalisageVol13-Anderson01.html), Clifford Anderson, presented at Balisage: The Markup Conference 2014, Washington, DC, August 5-8, 2014. In _Proceedings of Balisage: The Markup Conference 2014_. Balisage Series on Markup Technologies, vol. 13 (2014). https://doi.org/10.4242/BalisageVol13.Anderson01.
+- [XQuery Novelties Revisited](https://grtjn.blogspot.com/2011/10/xquery-novelties-revisited.html), Geert Josten, 2011. Situates XQuery among the various XML and non-XML standards. Provides a little history on the development of XQuery.
+- [XQuery, the Server Language](https://www.xml.com/pub/a/2007/06/01/xquery-the-server-language.html), Kurt Cagle, 2007. Explains that XQuery is much more than a language for querying XML.
 
 ## More tutorials
 
