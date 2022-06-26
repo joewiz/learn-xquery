@@ -65,7 +65,7 @@ In depth articles on conformance to / divergence from the spec, and links to key
 - [XQuery in BaseX](https://docs.basex.org/wiki/XQuery). See also [all BaseX documentation](https://docs.basex.org/wiki/Main_Page).
 - [XQuery in eXist-db](https://exist-db.org/exist/apps/doc/xquery.xml). See also [eXist XQuery Features Demo](https://exist-db.org/exist/apps/demo/index.html), [XQuery Function Documentation](https://exist-db.org/exist/apps/fundocs/index.html), [Getting Started with Web Application Development in eXist](https://exist-db.org/exist/apps/doc/development-starter) and [all eXist documentation](https://exist-db.org/exist/apps/doc/) 
 - [XQuery in MarkLogic](https://docs.marklogic.com/guide/xquery). See also [Application Developer's Guide](https://docs.marklogic.com/guide/app-dev) and [all MarkLogic documentation](https://docs.marklogic.com/)
-- [XQuery in Saxon](https://www.saxonica.com/documentation9.5/using-xquery/). 
+- [XQuery in Saxon](https://www.saxonica.com/html/documentation11/using-xquery/). See also Saxon's [XQuery 3.1 Conformance](https://www.saxonica.com/html/documentation11/conformance/xquery31.html).
 
 ## Mailing lists, forums
 
